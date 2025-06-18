@@ -1,6 +1,7 @@
-1. Зали этот проект на GitHub
-2. Подключи его к Render
-3. В Settings → Environment добавь переменные:
-   BOT_TOKEN = твой токен
-   HUSBAND_ID = твой Telegram ID (например: 358382151)
-4. Запусти — и бот будет работать 24/7
+1. Зарегистрируйся на railway.app
+2. Создай новый проект → Empty
+3. Залей этот проект
+4. В Variables добавь:
+   BOT_TOKEN = (твой токен)
+   HUSBAND_ID = (твой Telegram ID)
+5. Deploy — и бот работает!
